@@ -1,1 +1,3 @@
-I want to push this, and after that realize that I wanted to add more changes to this commit and push  --- change with reset soft   --- change with ammend
+  --- change with reset soft   --- change with ammend
+I want to push this, and after that realize that I wanted to add more changes to this commit and push
+				-> this is the change I wanted to do
