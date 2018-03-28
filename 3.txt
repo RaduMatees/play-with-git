@@ -1,0 +1,1 @@
+I want to push this, and after that realize that I wanted to add more changes to this commit and push  --- change with reset soft   --- change with ammend
